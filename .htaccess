@@ -1,4 +1,7 @@
+#HTACCESS
+
 Options +FollowSymLinks
+
 IndexIgnore */*
 RewriteEngine on
 
